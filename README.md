@@ -1,1 +1,6 @@
-# C̸͎̞̺̽͌̒Ó̸̫͍͕̿̔O̵̻̻͕̾́̈́K̵͎̞͚̾̀͆E̸͇͇͇͆͊̕D̵͔̒͜͝͠ B̵̟͍̻̒̚͝Ŕ̸̟̞͎́È̵̘̪͍̓̚A̵̟̙̿̔̿D̵̢͓͍̓͘͘
+# Me, in a nutshell
+
+## what skills do I have?
+I am currently learning the basics of C++ but I have some experience in Javascript.
+(HTML and CSS as well, but they don't really count)
+
