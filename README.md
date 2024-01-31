@@ -10,15 +10,10 @@
 
 ## My interests
 * Linux ricing
-</br>
 * Word puzzles
-</br>
 * Gaming (CS:GO and Minecraft)
-</br>
 * Coding (What else would I be on this website for >_<)
-</br>
 * Badminton
-</br>
 * Eating **lol**
 
 ## How to contact me
