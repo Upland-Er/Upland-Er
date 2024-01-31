@@ -2,9 +2,7 @@
 
 ## What skills do I have?
 * I am currently learning the basics of C++ but I have some experience in Javascript.
-</br>
 * ( I have experience in HTML and CSS as well, but they don't really count)
-</br>
 * I am well able to work with a Linux terminal
 </br>
 
