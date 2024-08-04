@@ -12,9 +12,5 @@
 * Gaming (CS:GO and Minecraft)
 * Coding (What else would I be on this website for >_<)
 * Badminton
-* Eating **lol**
-
-## How to contact me
-> just don't lol -Sun Tzu, The art of war
 
 
