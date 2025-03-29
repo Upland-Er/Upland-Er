@@ -1,2 +1,2 @@
-retard
+retard idiot 👍
 
